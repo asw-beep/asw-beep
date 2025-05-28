@@ -6,7 +6,7 @@
   
 - 📫 How to reach me : Email-aswinmony42@gmail.com  , LinkedIn- linkedin.com/in/aswin-mony-2022b8275
   
-- ⚡ Fun fact: 90% of my productivity comes from guilt, caffeine, and random midnight motivation.
+- ⚡ Fun fact: 90% of my productivity comes from greed and caffeine.
   
 
 <!---
