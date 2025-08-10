@@ -1,12 +1,14 @@
 -  Hi there 👋 I'm Aswin Mony!
    
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-  
+
+![Profile Views](https://komarev.com/ghpvc/?username=asw-beep&label=Profile%20views&color=0e75b6&style=flat)
+
 - 😎 I’m a BTech Student passionate about tech and self-improvement
   
 - 🌱 I’m currently learning **DSA**, **AI/ML** and **WebDev**
   
-- 📫 How to reach me : Email-aswinmony42@gmail.com  , LinkedIn-linkedin.com/in/aswin-mony-2022b8275
+- 📫 How to reach me : Email - aswinmony42@gmail.com , LinkedIn - linkedin.com/in/aswin-mony-2022b8275
   
 - ⚡ Fun fact: 90% of my productivity comes from greed and caffeine.
   
