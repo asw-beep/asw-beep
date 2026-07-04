@@ -63,11 +63,7 @@
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> Add this via the [platane/snk](https://github.com/Platane/snk) GitHub Action in your repo to auto-generate this animation from your real contribution graph.
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asw-beep/asw-beep/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asw-beep/asw-beep/output/github-snake.svg" /><img alt="github-snake" src="https://raw.githubusercontent.com/asw-beep/asw-beep/output/github-snake.svg" /></picture></p>
 
 ---
 
